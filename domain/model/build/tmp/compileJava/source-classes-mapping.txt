@@ -1,0 +1,21 @@
+co/com/bancolombia/model/Response/Prestamo.java
+ co.com.bancolombia.model.Response.Prestamo
+ co.com.bancolombia.model.Response.Prestamo$PrestamoBuilder
+co/com/bancolombia/model/Domain/UsuarioDomain.java
+ co.com.bancolombia.model.Domain.UsuarioDomain
+ co.com.bancolombia.model.Domain.UsuarioDomain$UsuarioDomainBuilder
+co/com/bancolombia/model/Domain/LibroDomain.java
+ co.com.bancolombia.model.Domain.LibroDomain
+ co.com.bancolombia.model.Domain.LibroDomain$LibroDomainBuilder
+co/com/bancolombia/model/a.java
+ co.com.bancolombia.model.a
+co/com/bancolombia/model/Domain/PrestamoSolicitudDomain.java
+ co.com.bancolombia.model.Domain.PrestamoSolicitudDomain
+ co.com.bancolombia.model.Domain.PrestamoSolicitudDomain$PrestamoSolicitudDomainBuilder
+co/com/bancolombia/model/Gateway/IUserProviderGateway.java
+ co.com.bancolombia.model.Gateway.IUserProviderGateway
+co/com/bancolombia/model/Gateway/IBookProviderGateway.java
+ co.com.bancolombia.model.Gateway.IBookProviderGateway
+co/com/bancolombia/model/Response/RespuestaDomain.java
+ co.com.bancolombia.model.Response.RespuestaDomain
+ co.com.bancolombia.model.Response.RespuestaDomain$RespuestaDomainBuilder
