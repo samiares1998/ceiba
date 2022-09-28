@@ -46,3 +46,4 @@ Este módulo es el más externo de la arquitectura, es el encargado de ensamblar l
 
 **Los beans de los casos de uso se disponibilizan automaticamente gracias a un '@ComponentScan' ubicado en esta capa.**
 "# ceiba" 
+"# libraryReactive" 
